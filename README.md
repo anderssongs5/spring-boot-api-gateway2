@@ -1,6 +1,6 @@
 # spring-boot-api-gateway2
 
-Spring Boot API Gateway using Zuul, Eureka Discovery Client and getting its configuration through Config Server.
+Spring Boot API Gateway using Zuul, registring in Service Registry and getting its configuration through Config Server.
 
 Related projects:
 * Config Server: https://github.com/anderssongs5/spring-boot-config-server
